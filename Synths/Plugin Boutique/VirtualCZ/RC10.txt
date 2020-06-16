@@ -1,0 +1,4 @@
+This is the CZ-1 .syx dump of the Casio RC-10 cartridge.
+It contains all 64 patches. Cart is labled "ORCHESTRA"
+I believe it contains the factory operation memories.
+This .syx file works with the CZ-1 only.

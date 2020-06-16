@@ -1,0 +1,69 @@
+This is the CZ-1 .syx dump of the Casio RC-20 cartridge.
+It contains all 64 patches. Cart is labled "PIANO/GUITAR/PERCUSSION"
+I believe it contains the factory operation memories.
+This .syx file works with the CZ-1 only.
+
+    PIANO 6     
+    PIANO 7     
+    PIANO 8     
+    PIANO 9     
+  ELEC.PIANO 4  
+  ELEC.PIANO 5  
+  ELEC.PIANO 6  
+  ELEC.PIANO 7  
+ HARPSICHORD 3  
+ HARPSICHORD 4  
+ FUNKY CLAVI.5  
+ FUNKY CLAVI.6  
+   TOY PIANO    
+  HONKY-TONK 2  
+   CELESTA 1    
+   CELESTA 2    
+  FOLK GUITAR   
+ JAZZ GUITAR 2  
+ ELEC.GUITAR 2  
+ FUSION GUITAR  
+  DIST.GUITAR   
+  ELEC.BASS 3   
+  SLAP BASS 4   
+  SLAP BASS 5   
+   WOOD BASS    
+    BANJO 2     
+     HARP 3     
+     HARP 4     
+   GLASS HARP   
+     KOTO 2     
+     KOTO 3     
+  TAISHO KOTO   
+    SHAMISEN    
+    TSUZUMI     
+    SITAR 2     
+    JAW HARP    
+    BONANG 1    
+    BONANG 2    
+  VIBRAPHONE 3  
+  VIBRAPHONE 4  
+  GLASS SOUND   
+   MARIMBA 2    
+  THUMB PIANO   
+     AGOGO      
+    CHIME 1     
+    CHIME 2     
+    BELLS 2     
+    BELLS 3     
+      GONG      
+SYN.PERCUSSION 1
+SYN.PERCUSSION 2
+SYN.PERCUSSION 3
+SYN.PERCUSSION 4
+   SHORT SLAP   
+  STEEL DRUM 2  
+     MALLET     
+   BASS DRUM    
+    TAIKO 1     
+    TAIKO 2     
+ SYNTH.DRUMS 3  
+ SYNTH.DRUMS 4  
+ SYNTH.DRUMS 5  
+   SCRATCH 1    
+   SCRATCH 2    
